@@ -1,0 +1,31 @@
+#ignore compiled output
+/target/
+
+#ignore Cargo.lock - libraries
+/Cargo.lock
+
+#ignore build artifacts and intermediate files
+*.rs.bk
+*rmeta
+
+#ignore IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+
+#ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+#ignore Git-specific files
+*.rej
+*.orig
+
+#ignore backups
+*.bak
+
+#ds_store
+.DS_Store
