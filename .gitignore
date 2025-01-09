@@ -1,8 +1,8 @@
 #ignore compiled output
-/target/
+target/
 
 #ignore Cargo.lock - libraries
-/Cargo.lock
+Cargo.lock
 
 #ignore build artifacts and intermediate files
 *.rs.bk
