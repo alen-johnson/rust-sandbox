@@ -24,11 +24,11 @@ Welcome to the Rust Sandbox! This repository contains a collection of small Rust
 
 ### File Structure
 
-rust-sandbox/
-├── calculator/
-├── guess-the-num/
-└── palindrome/
-├── timer-stopwatch/
-├── to-do-list/
-└── .gitignore
-└── README.md
+rust-sandbox/    
+├── calculator/   
+├── guess-the-num/   
+├── palindrome/    
+├── timer-stopwatch/    
+├── to-do-list/    
+├── .gitignore   
+└── README.md   
